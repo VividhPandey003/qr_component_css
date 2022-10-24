@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Made a QR component card
 ### Screenshot
 
-![](./output.jpg)
+![](https://github.com/VividhPandey003/qr_component_css/blob/main/images/output.png)
 
 
 ### Links
